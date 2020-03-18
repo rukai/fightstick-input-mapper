@@ -1,0 +1,10 @@
+[package]
+name = "空_n"
+version = "0.1.0"
+authors = ["Rukai <rubickent@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+gilrs = "0.7"
+#enigo = "0.0.13"
+enigo = { path = "/home/rubic/Projects/Crates/enigo" }
