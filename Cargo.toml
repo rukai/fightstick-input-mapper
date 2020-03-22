@@ -6,5 +6,4 @@ edition = "2018"
 
 [dependencies]
 gilrs = "0.7"
-#enigo = "0.0.13"
-enigo = { path = "/home/rubic/Projects/Crates/enigo" }
+enigo = "0.0.14"
